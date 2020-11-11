@@ -1,0 +1,1 @@
+"# HoeWork6SumArryTread" 
